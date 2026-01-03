@@ -16,12 +16,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 redis
-vercel
 -->
 
 ### :hammer_and_wrench: Tools & Technologies:
 
-![Tools & Technologies](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,docker,linux,debian,vscode,Wordpress)
+![Tools & Technologies](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,postman,npm,git,github,docker,linux,debian,vscode,wordpress)
 ***
 
 [![Leet Code Status](https://leetcard.jacoblin.cool/poula-karemp?theme=dark)](https://leetcode.com/u/poula-karemp/)
